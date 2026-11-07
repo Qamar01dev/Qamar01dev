@@ -1,13 +1,17 @@
-<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<!-- ═══════════════ ANIMATED INTRO ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,30&height=230&section=header&text=Qamar&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20.NET%20%C2%B7%20C%2B%2B%20%C2%B7%20Open-Source%20Contributor&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Qamar banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=220&section=header&text=Qamar&fontSize=82&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Cool%20Things&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Qamar — Full-Stack Developer" />
 
 <a href="https://github.com/Qamar01dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Qamar+%F0%9F%91%8B;I+build+with+C%23+%7C+.NET+%7C+C%2B%2B+%7C+TypeScript;Turning+coffee+into+code+since+day+one+%E2%98%95;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=...;Hey+there%2C+I'm+Qamar+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Building+apps%2C+APIs+%26+cool+ideas+%E2%9C%A8;Always+learning.+Always+building.+%F0%9F%9A%80" alt="Animated introduction: dots, then changing text" />
 </a>
 
 <br/>
+
+<img src="https://github.com/Qamar01dev.png" width="145" alt="Qamar's GitHub profile picture" style="border-radius:50%" />
+
+<br/><br/>
 
 [![Followers](https://img.shields.io/github/followers/Qamar01dev?label=Follow&style=for-the-badge&logo=github&color=8b5cf6&labelColor=0d1117)](https://github.com/Qamar01dev)
 [![Profile views](https://komarev.com/ghpvc/?username=Qamar01dev&label=Profile+Views&color=8b5cf6&style=for-the-badge&labelColor=0d1117)](https://github.com/Qamar01dev)
@@ -194,6 +198,6 @@ public class Qamar : Developer
 
 ### ⭐ If you like what you see, drop a star & follow — let's build something great together! ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,30&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
