@@ -1,15 +1,15 @@
-<!-- ═══════════════ ANIMATED INTRO ═══════════════ -->
+<!-- ═══════════════ PREMIUM PROFILE HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=220&section=header&text=Qamar&fontSize=82&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Cool%20Things&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Qamar — Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,30&height=220&section=header&text=Qamar&fontSize=82&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Qamar profile banner" />
 
 <a href="https://github.com/Qamar01dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=...;Hey+there%2C+I'm+Qamar+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Building+apps%2C+APIs+%26+cool+ideas+%E2%9C%A8;Always+learning.+Always+building.+%F0%9F%9A%80" alt="Animated introduction: dots, then changing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1200&color=8b5cf6&center=true&vCenter=true&width=850&lines=...;Hey+there%2C+I%27m+Qamar+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Building+clean+apps%2C+APIs+%26+ideas+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing intro" />
 </a>
 
 <br/>
 
-<img src="https://github.com/Qamar01dev.png" width="145" alt="Qamar's GitHub profile picture" style="border-radius:50%" />
+<img src="https://github.com/Qamar01dev.png" width="170" alt="Qamar profile avatar" style="border-radius: 50%; border: 4px solid #8b5cf6; box-shadow: 0 0 25px rgba(139,92,246,0.6);" />
 
 <br/><br/>
 
@@ -29,11 +29,11 @@
 <td width="55%" valign="top">
 
 - 💻 I build with **C#, .NET, C++, JavaScript, Python & TypeScript**
-- 🏗️ Crafting clean **web apps, APIs & backend systems**
-- 🧠 Sharpening my **DSA & problem-solving** every day
-- 🌱 Always exploring new tools, frameworks & ideas
-- 🤝 Open to **collaboration** on interesting projects
-- ⚡ I love turning raw ideas into useful products
+- 🏗️ Crafting **web apps, APIs, backend systems & user-focused products**
+- 🧠 Improving my **DSA, logic & problem-solving** every single day
+- 🌱 Exploring new tools, frameworks, patterns & ideas
+- 🤝 Open to **collaboration** on meaningful projects
+- ⚡ Love turning raw ideas into useful digital experiences
 
 </td>
 <td width="45%" valign="top">
@@ -47,9 +47,9 @@ public class Qamar : Developer
         "TypeScript", "Python"
     };
 
-    public string Focus  => ".NET • Web • DSA";
-    public string Fuel   => "Coffee ☕";
-    public bool   Ready  => true;
+    public string Focus => ".NET • Web • DSA";
+    public string Fuel  => "Coffee ☕";
+    public bool Ready   => true;
 
     public void Build()
     {
@@ -57,7 +57,7 @@ public class Qamar : Developer
         {
             Learn();
             Code();
-            Ship();   // repeat 🔁
+            Ship();
         }
     }
 }
@@ -67,7 +67,7 @@ public class Qamar : Developer
 </tr>
 </table>
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
+<!-- ═══════════════ SKILLS ═══════════════ -->
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -103,7 +103,7 @@ public class Qamar : Developer
 
 </details>
 
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
+<!-- ═══════════════ PROJECTS ═══════════════ -->
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -164,19 +164,6 @@ public class Qamar : Developer
 
 </div>
 
-<!-- ═══════════════ SNAKE ═══════════════ -->
-<!--
-  Snake animation needs a one-time GitHub Action setup (see Platane/snk).
-  After it runs, uncomment the block below.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qamar01dev/Qamar01dev/output/github-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Qamar01dev/Qamar01dev/output/github-snake.svg" />
-  </picture>
-</div>
--->
-
 <!-- ═══════════════ QUOTE ═══════════════ -->
 <div align="center">
 
@@ -198,6 +185,6 @@ public class Qamar : Developer
 
 ### ⭐ If you like what you see, drop a star & follow — let's build something great together! ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,30&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
